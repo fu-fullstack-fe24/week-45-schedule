@@ -6,6 +6,7 @@
 En introduktion till Typescript, vad det är och dess fördelar samt vad som behövs installeras för att kunna köra det. 
 Vi tittar även på skillnaden på statiskt typat språk och ett dynamiskt typat språk och kodexempel på hur man använder statiska typer och interfaces TS.
 
+Veckans Code Review har ingen specifik uppgift. Istället kommer ni få ett antal stödfrågor för att dra igång en diskussion kring vad ni gjort under veckan, samt er planering och start i den individuella examinationen.
 
 ## Mål för veckan:
 
