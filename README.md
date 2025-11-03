@@ -45,3 +45,7 @@ Vi tittar även på skillnaden på statiskt typat språk och ett dynamiskt typat
 * [Getting started with TypeScript](https://drive.google.com/file/d/0B98lNJRzLBMST1BZcm1CbGdEc1k/view?usp=sharing&resourcekey=0-JqJ5WaSSh7uLcScFKqMpxg)
 
 ### Övningar 
+
+* [TypeScript Basics Bootcamp](https://github.com/fu-fullstack-fe24/week-45-exercise-typescript-basics-bootcamp/tree/main)
+* [Memory Game](https://github.com/FE24-Fullstack-webbapplikation-med-TS/memory-game-exercise)
+* [Doggy Daycare](https://gist.github.com/zocom-christoffer-wallenberg/3b66680d5771ea2208ec5ef14fab366e)
