@@ -28,13 +28,16 @@ Veckans Code Review har ingen specifik uppgift. Istället kommer ni få ett anta
 
 **LIVE**
 
+* [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ETtT2mqxOORKiHPGumq7ob0BdAX7qCgpqU7SjWjhoXKYMQ?e=n7gwTQ)
+* [TypeScript Koncept](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ecy9J984sM5LoN7dCFeeCT0BCrjaqiErrp6ZDzhEeCvWLw?e=hzMz67)
+* [TypeScript Kodexempel](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EYdkvTiDHIZEpAxpXGdDlckB-kmZfFybTBVNPwJBjmtMBA?e=gqvoVy)
 
 **Förinspelat**
 
 
 ### Lektionsrepon
 
-* [4 nov]()
+* [4 nov](https://github.com/fu-fullstack-fe24/week-45-lecture-4-nov)
 
 ### Filmer
 
