@@ -31,6 +31,8 @@ Veckans Code Review har ingen specifik uppgift. Istället kommer ni få ett anta
 * [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ETtT2mqxOORKiHPGumq7ob0BdAX7qCgpqU7SjWjhoXKYMQ?e=n7gwTQ)
 * [TypeScript Koncept](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ecy9J984sM5LoN7dCFeeCT0BCrjaqiErrp6ZDzhEeCvWLw?e=hzMz67)
 * [TypeScript Kodexempel](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EYdkvTiDHIZEpAxpXGdDlckB-kmZfFybTBVNPwJBjmtMBA?e=gqvoVy)
+* [Code Along, 6 nov](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EdJplKZB4SFAraaSWp_Va-sB5NAZNeC5pL05EyhRFKqdsQ?e=nm66jn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Genomgång examination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ET21Qu_j3lhGnaeW5-v8lSEBaZypBzyVQhkj3OAhIb-3YA?e=D6AkNO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat**
 
