@@ -40,6 +40,7 @@ Veckans Code Review har ingen specifik uppgift. Istället kommer ni få ett anta
 ### Lektionsrepon
 
 * [4 nov](https://github.com/fu-fullstack-fe24/week-45-lecture-4-nov)
+* [6 nov](https://github.com/fu-fullstack-fe24/week-45-lecture-6-nov)
 
 ### Filmer
 
